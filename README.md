@@ -8,4 +8,4 @@ What's here:
 
 - [tori-portfolio](https://github.com/toribryan/tori-portfolio), the source for toribryan.com
 - [bab](https://github.com/toribryan/bab), a 13-screen prototype of a proctoring integrity dashboard in plain HTML, CSS, and JS
-- [fibo-ds](https://github.com/toribryan/fibo-ds), a design system for experimental projects built on shadcn/ui and Base UI
+- [fibo](https://github.com/toribryan/fibo), a design system built on shadcn/ui and Base UI, installable as a shadcn registry
