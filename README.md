@@ -1,7 +1,6 @@
 Hi, I'm Tori. I'm a Product Designer who ships the front end I design.
 
-Five years building B2B products, component libraries, and the tooling that connects design to production code, most recently for a proctoring platform used by 8 million test takers.
-
+Five years building B2B products, component libraries, and the tooling that connects design to production code.
 Portfolio: [toribryan.com](https://toribryan.com)
 
 What's here:
