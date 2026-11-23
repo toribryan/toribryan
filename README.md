@@ -1,5 +1,3 @@
-<img width="630" height="508" alt="image" src="https://github.com/user-attachments/assets/1dbe9ada-7bef-4f0d-9535-b244070440cc" />
-
 Hi, I'm Tori. 
 
 Five years building B2B products, component libraries, and the tooling that connects design to production code.
