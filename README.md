@@ -1,4 +1,4 @@
-<img width="630" height="508" alt="image" src="https://github.com/user-attachments/assets/35f9af7b-c674-435a-ab73-70a253e45674" />
+<img width="630" height="508" alt="image" src="https://github.com/user-attachments/assets/1dbe9ada-7bef-4f0d-9535-b244070440cc" />
 
 Hi, I'm Tori. 
 
@@ -6,6 +6,10 @@ Five years building B2B products, component libraries, and the tooling that conn
 Portfolio: [toribryan.com](https://toribryan.com)
 
 What's here:
+
+
+
+
 
 - [toribryan.com](https://github.com/toribryan/toribryan.com), the source for my portfolio
 - [fibo](https://github.com/toribryan/fibo), a design system built on shadcn/ui and Base UI, installable as a shadcn registry
