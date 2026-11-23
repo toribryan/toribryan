@@ -1,4 +1,4 @@
-Hi, I'm Tori. I'm a Product Designer who ships the front end I design.
+Hi, I'm Tori. 
 
 Five years building B2B products, component libraries, and the tooling that connects design to production code.
 Portfolio: [toribryan.com](https://toribryan.com)
