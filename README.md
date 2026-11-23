@@ -1,5 +1,4 @@
-<img width="1290" height="1230" alt="image" src="https://github.com/user-attachments/assets/594372a0-aec3-4143-b3b7-44ce64d391dd" />
-
+<img width="630" height="508" alt="image" src="https://github.com/user-attachments/assets/35f9af7b-c674-435a-ab73-70a253e45674" />
 
 Hi, I'm Tori. 
 
